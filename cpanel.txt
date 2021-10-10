@@ -1,0 +1,7 @@
+Mohosin {
+	url: https://mohammedabdurrobelectronicsllc.com/,
+	cpanel: {
+		user: mohammedabdurrob
+		pass: 8%+Laz5+_%gxwoadud
+	}
+}

@@ -1,0 +1,30 @@
+Linode VPS:
+-----------------------
+SSH: ssh root@45.33.34.15
+SSH pass: bRRRRk%8%%8tH9wy
+
+URL: https://cloud.linode.com/
+Linode username: sovwaredev
+Linode pass: e[&ur}MA5~@&"V;$
+
+http://45.33.34.15/hrm/
+
+http://45.33.34.15/test-app
+http://45.33.34.15
+
+HRM App path
+cd /var/www/site.com/hrm
+
+Test App path
+cd /var/www/site.com/node-hello
+
+Nginx config path
+cd /etc/nginx/sites-available/
+
+
+http://45.33.34.15/phpmyadmin
+admin
+@5wbd_1M7d
+
+
+git access token: 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
