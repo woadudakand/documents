@@ -1,0 +1,8 @@
+1. Bank Job
+2. IT Related Job
+3. Teacher
+4. Garments
+5. Marketing
+6. Others
+7. Family details
+8. Doctor
